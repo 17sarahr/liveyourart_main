@@ -1,6 +1,6 @@
 ---
-title: Fantastic Art Born Here
-subtitle: 'Local  Art '
+title: Art Born Here
+subtitle: providing artists an open and vibrant platform for their work.
 image: /img/products-grid1.jpg
 blurb:
   heading: Why Live Your Art?
