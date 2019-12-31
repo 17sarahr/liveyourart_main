@@ -4,10 +4,14 @@ subtitle: Providing artists an open and vibrant platform for their work and idea
 image: /img/img_4261.jpg
 blurb:
   heading: Why Live Your Art?
-  text: Art is for all. Artists need a platform for displaying relevant work.
+  text: >-
+    Art is for all. Its a platform for displaying relevant work and sharing
+    ideas.
 intro:
   heading: What we offer
-  text: 'We support local art development, production and display. '
+  text: >-
+    We support local art development and provide a safe community to talk about
+    art. 
 products:
   - image: img/illustrations-coffee.svg
     text: We promote the discovery and design process
@@ -15,6 +19,6 @@ products:
     text: We establish a platform for art works
 values:
   heading: Our values
-  text: Art is an amazing part of human culture
+  text: Art is an amazing part of human culture and it should be accessible to all.
 ---
 
