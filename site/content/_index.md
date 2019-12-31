@@ -1,5 +1,5 @@
 ---
-title: Art Here!
+title: Art Born Here!
 subtitle: Providing artists an open and vibrant platform for their work.
 image: /img/img_4261.jpg
 blurb:
