@@ -1,6 +1,6 @@
 ---
-title: Art Born Here
-subtitle: providing artists an open and vibrant platform for their work.
+title: Art Here!
+subtitle: Providing artists an open and vibrant platform for their work.
 image: /img/img_4261.jpg
 blurb:
   heading: Why Live Your Art?
